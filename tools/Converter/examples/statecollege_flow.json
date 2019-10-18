@@ -1,0 +1,86 @@
+[
+	{
+	"vehicle": {
+      "length": 5.0,
+      "width": 2.0,
+      "maxPosAcc": 2.0,
+      "maxNegAcc": 4.5,
+      "usualPosAcc": 2.0,
+      "usualNegAcc": 4.5,
+      "minGap": 2.5,
+      "maxSpeed": 16.67,
+      "headwayTime": 1.5,
+      "initDistance": 27.9643828
+    },
+    "route": [
+    	"339271740_3_0",
+      "276902341_0_2"
+    ],
+    "interval": 2.0,
+    "startTime": 0,
+    "endTime": -1
+	},
+  {
+  "vehicle": {
+      "length": 5.0,
+      "width": 2.0,
+      "maxPosAcc": 2.0,
+      "maxNegAcc": 4.5,
+      "usualPosAcc": 2.0,
+      "usualNegAcc": 4.5,
+      "minGap": 2.5,
+      "maxSpeed": 16.67,
+      "headwayTime": 1.5,
+      "initDistance": 27.9643828
+    },
+    "route": [
+      "11841889_0_8",
+      "262162188_0_5"
+    ],
+    "interval": 2.0,
+    "startTime": 0,
+    "endTime": -1
+  },
+  {
+  "vehicle": {
+      "length": 5.0,
+      "width": 2.0,
+      "maxPosAcc": 2.0,
+      "maxNegAcc": 4.5,
+      "usualPosAcc": 2.0,
+      "usualNegAcc": 4.5,
+      "minGap": 2.5,
+      "maxSpeed": 16.67,
+      "headwayTime": 1.5,
+      "initDistance": 27.9643828
+    },
+    "route": [
+      "262162183_0_13",
+      "11848987_0_4"
+    ],
+    "interval": 2.0,
+    "startTime": 0,
+    "endTime": -1
+  },
+  {
+  "vehicle": {
+      "length": 5.0,
+      "width": 2.0,
+      "maxPosAcc": 2.0,
+      "maxNegAcc": 4.5,
+      "usualPosAcc": 2.0,
+      "usualNegAcc": 4.5,
+      "minGap": 2.5,
+      "maxSpeed": 16.67,
+      "headwayTime": 1.5,
+      "initDistance": 27.9643828
+    },
+    "route": [
+      "276902341_2_0",
+      "339271740_0_3"
+    ],
+    "interval": 2.0,
+    "startTime": 0,
+    "endTime": -1
+  }
+]
